@@ -1,6 +1,6 @@
 ## File-Highlighting Obsidian Plugin
 
-File-Highlighting is a plugin for Obsidian (hhtps://obsidian.md)
+File-Highlighting is a plugin for Obsidian (https://obsidian.md)
 
 This plugin lets you define a set of tags and associated colors which are used to highlight references to files that have those tags. 
 
