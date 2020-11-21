@@ -1,0 +1,9 @@
+{
+  "id": "file-highlighting-plugin",
+  "name": "File Highlighting Plugin",
+  "version": "1.0.0",
+  "description": "This plugin lets you specify colors associated with tags, with all internal links and filenames will by styled by that logic.",
+  "author": "Adit Dhanushkodi",
+  "authorUrl": "https://aditd.me",
+  "isDesktopOnly": false
+}

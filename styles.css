@@ -1,0 +1,22 @@
+/* Sets all the text color to red! */
+.tagPluginSettings .setting-item .setting-item-info{
+    flex-grow: unset;
+}
+
+.tagPluginSettings .setting-item.controlButton .setting-item-info{
+    flex-grow: 1;
+    order: -1;
+}
+
+.tagPluginSettings .setting-item{
+    border-top: 0;
+    padding: 9px 0px;
+    order: attr(data-order number);
+}
+
+.tagPluginSettings{
+    border-bottom: 1px solid var(--background-modifier-border);
+    padding-bottom: 18px;
+    display: flex;
+    flex-flow: column nowrap;
+}
